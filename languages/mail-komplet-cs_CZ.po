@@ -1,0 +1,106 @@
+# Copyright (C) 2018 Mail Komplet
+# This file is distributed under the same license as the Mail Komplet package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Komplet 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mail-komplet\n"
+"POT-Creation-Date: 2018-01-17 15:36:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-01-17 16:41+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.5\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: cs_CZ\n"
+
+#: admin/class-mail-komplet-admin.php:143
+msgid "Settings"
+msgstr "Nastavení"
+
+#: admin/partials/mail-komplet-admin-display.php:23
+msgid "Contact Mail Komplet"
+msgstr "Kontaktujte Mail Komplet"
+
+#: admin/partials/mail-komplet-admin-display.php:26
+msgid "Email"
+msgstr "Email"
+
+#: admin/partials/mail-komplet-admin-display.php:27
+#: admin/partials/mail-komplet-admin-display.php:28
+msgid "info@mail-komplet.cz"
+msgstr "info@mail-komplet.cz"
+
+#: admin/partials/mail-komplet-admin-display.php:31
+msgid "Phone"
+msgstr "Telefon"
+
+#: admin/partials/mail-komplet-admin-display.php:31
+msgid "+420 517 070 000"
+msgstr "+420 517 070 000"
+
+#: admin/partials/mail-komplet-admin-display.php:34
+msgid "Visit us for more info"
+msgstr "Pro více informací nás navštivte zde"
+
+#: admin/partials/mail-komplet-admin-display.php:34
+msgid "http://www.mail-komplet.cz"
+msgstr "http://www.mail-komplet.cz"
+
+#: admin/partials/mail-komplet-admin-display.php:57
+#: admin/partials/mail-komplet-admin-display.php:60
+msgid "API key"
+msgstr "API klíč"
+
+#: admin/partials/mail-komplet-admin-display.php:66
+#: admin/partials/mail-komplet-admin-display.php:69
+msgid "Base crypt"
+msgstr "Base crypt"
+
+#: admin/partials/mail-komplet-admin-display.php:75
+#: admin/partials/mail-komplet-admin-display.php:78
+msgid "Mailing List"
+msgstr "Mailing List"
+
+#: admin/partials/mail-komplet-admin-display.php:85
+msgid "Connect"
+msgstr "Připojit"
+
+#: admin/partials/mail-komplet-admin-display.php:86
+msgid "Connecting"
+msgstr "Připojuji"
+
+#: admin/partials/mail-komplet-admin-display.php:88
+msgid ""
+"Unable to download mailing lists. Probably API key or base crypt string is "
+"wrong. Try to set it again please"
+msgstr ""
+"Není možné stáhnout mailing listy. API klíč nebo base crypt jsou "
+"pravděpodobně chybně zadány. Zkuste to prosím znovu."
+
+#: admin/partials/mail-komplet-admin-display.php:90
+msgid "Save all changes"
+msgstr "Uložit změny"
+
+#. Plugin Name of the plugin/theme
+msgid "Mail Komplet"
+msgstr "Mail Komplet"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.mail-komplet.cz/"
+msgstr "https://www.mail-komplet.cz/"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin will connect your WooCommerce shop to your account on Mail "
+"Komplet."
+msgstr "Tento plugin propojí Váš WooCommerce eshop s účtem na Mail Kompletu."
+
+#. Author of the plugin/theme
+msgid "Webkomplet, s.r.o."
+msgstr "Webkomplet, s.r.o"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webkomplet.cz/"
+msgstr "https://www.webkomplet.cz/"
